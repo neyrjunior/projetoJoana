@@ -1,0 +1,54 @@
+.home-container {
+}
+
+.carousel-section {
+  margin-bottom: 50px;
+}
+
+.highlights-section {
+  display: flex;
+  justify-content: space-around;
+}
+
+.highlight {
+  text-align: center;
+  max-width: 400px;
+  padding: 30px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.imagem-texto {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.imagem-texto h1 {
+  margin-bottom: 10px;
+}
+
+.imagem-texto p {
+  font-style: italic;
+  padding: 10px;
+  margin: 10px;
+}
+
+.imagem-texto-img {
+  margin-right: 20px;
+  border-radius: 8px;
+  max-width: 800px;
+  height: auto;
+}
+
+.testimonials-section {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.testimonial {
+  margin: 20px 0;
+  font-style: italic;
+}
